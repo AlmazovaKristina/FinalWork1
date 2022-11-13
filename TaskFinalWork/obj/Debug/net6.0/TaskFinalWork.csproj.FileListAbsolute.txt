@@ -1,0 +1,15 @@
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/TaskFinalWork.csproj.AssemblyReference.cache
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/TaskFinalWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/TaskFinalWork.AssemblyInfoInputs.cache
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/TaskFinalWork.AssemblyInfo.cs
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/TaskFinalWork.csproj.CoreCompileInputs.cache
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/bin/Debug/net6.0/TaskFinalWork
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/bin/Debug/net6.0/TaskFinalWork.deps.json
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/bin/Debug/net6.0/TaskFinalWork.runtimeconfig.json
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/bin/Debug/net6.0/TaskFinalWork.dll
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/bin/Debug/net6.0/TaskFinalWork.pdb
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/TaskFinalWork.dll
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/refint/TaskFinalWork.dll
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/TaskFinalWork.pdb
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/TaskFinalWork.genruntimeconfig.cache
+/Users/kristinaalmazova/Documents/FinalWork/TaskFinalWork/obj/Debug/net6.0/ref/TaskFinalWork.dll
